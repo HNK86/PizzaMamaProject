@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '%l6z#199)*096s5yremnzk3&)xpjmd!&eq4=m(wn$=m_y7wnx%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://pizzamamawithdjango.herokuapp.com']
 
